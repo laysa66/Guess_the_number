@@ -28,7 +28,7 @@ The game uses ANSI escape codes for text colors to make the "TOO HIGH" and "TOO 
 4. Run the script using the following command:
 
 ```bash
-python guess_the_number.py
+python3 guess_the_number.py
 ```
 
 ## Game Rules
